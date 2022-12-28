@@ -1,0 +1,2 @@
+We can use Scanner class to read the file contents line by line.
+ Then use String contains() method to check if the string is present in the file or not.
